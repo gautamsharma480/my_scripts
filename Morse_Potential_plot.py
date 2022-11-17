@@ -8,7 +8,7 @@ f=open('file.dat','w')
 RC = 1#4.45e-10
 RM = 0.45 * RC
 R0 = 0.22 * RC
-A = -8.88
+A = -2
 K = 8.5 #* KT
 
 def my_func(low,up,leng):
