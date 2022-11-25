@@ -51,7 +51,7 @@ for i in range(0,len(P_15)):
 
 #rho=[1,2,3,4,5,6,7,8]
 # I obtained the pressure data below for water system using Materials Studio.
-# (Computational details are adapted from J. Chem. Phys. 107, 11, 1997)
+# (Computational details are adopted from J. Chem. Phys. 107, 11, 1997)
 P_15 = [0.032,0.110,0.237,0.414,0.640,0.914,1.236,1.607] # in GPa
 P_25=[0.040,0.159,0.364,0.650,1.017,1.464,1.992,2.602] # in GPa
 P_30 = [0.043,0.183,0.428,0.769,1.206,1.741,2.372,3.100] # in GPa
