@@ -77,5 +77,6 @@ def plot_Nafion():
     plt.legend()
 
 #plot_water()
+#plot_proton()
 plot_Nafion()
 plt.show()
